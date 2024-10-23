@@ -10,7 +10,11 @@ body {
     color: white;
     overflow: auto;
 }
+img {
+    opacity: 20%;
+}
 .section-1-monitor {
+    text-align: center;
     width: 1119px;
     height: 769px;
     position: absolute;
