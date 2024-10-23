@@ -6,72 +6,67 @@ body {
     display: block;
     margin: 0 auto;
     width: 1440px;
-    background-color: #000AFF;
+    background-color: #000aff;
     color: white;
     overflow: auto;
 }
-img {
-    opacity: 20%;
+
+.section-1 {
+    width: 1440px;
 }
+
 .section-1-monitor {
     text-align: center;
     width: 1119px;
     height: 769px;
-    position: absolute;
     background-image: url(../images/1.svg);
-    top: 18px;
-    left: 146px;
+    margin: 18px auto;
+    padding-top: 285px;
 }
+
 .section-1 h1 {
-    position: absolute;
-    top: 295px;
-    left: 412px;
     font-size: 130px;
     font-family: 'Bebas Neue Pro';
-        font-weight: bold;
-            font-style: normal;
+    font-weight: bold;
+    font-style: normal;
 }
+
+.section-1 h1 span {
+    color: #ffc700;
+    font-style: italic;
+    margin-left: 25px;
+}
+
 .section-1 h2 {
-    position: absolute;
-    top: 405px;
-    left: 548px;
     font-size: 65px;
     font-family: 'Bebas Neue Pro';
     font-weight: normal;
-        font-style: normal;
+    font-style: normal;
+    margin-top: 20px;
 }
+
 .section-1 h3 {
-    position: absolute;
-    top: 479px;
-    left: 608px;
     font-size: 32px;
     font-family: 'Bebas Neue Pro Middle';
     font-weight: 500;
-        font-style: normal;
+    font-style: normal;
+    margin-top: 0px;
 }
-.section-1 h4 {
-    color: #FFC700;
-    position: absolute;
-    top: 295px;
-    left: 902px;
-    font-size: 130px;
-    font-family: 'Bebas Neue Pro';
-    font-weight: normal;
-        font-style: italic;
-}
+
 .section-1 h6 {
-    color: #FFC700;
+    color: #ffc700;
     opacity: 50%;
     position: absolute;
     top: 698px;
     left: 150px;
     font-size: 70px;
     font-family: 'Bebas Neue Pro';
-        font-weight: bold;
-        font-style: normal;
+    font-weight: bold;
+    font-style: normal;
 }
+
 .section-1 h5 {
-    color: #FF3D00;
+    color: #ff3d00;
     position: absolute;
     top: 668.5px;
     left: 1087.5px;
@@ -80,45 +75,60 @@ img {
     font-weight: bold;
     font-style: normal;
 }
+
 .section-2 h1 {
-    color: #FFFFFF;
-    position: absolute;
-    top: 911px;
-    left: 562px;
+    color: #ffffff;
     font-size: 100px;
-        font-family: 'Bebas Neue Pro';
-            font-weight: bold;
-            font-style: normal;
+    font-family: 'Bebas Neue Pro';
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    margin-top: 124px;
 }
+
+.keyboard-kabel {
+    width: 1440px;
+    height: 720px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.kabel-left {
+    padding-top: 400px;
+}
+
+.kabel-left img {
+    width: 189.13px;
+    height: 40.48px;
+}
+
+.kabel-right img {
+    width: 184px;
+    height: 40.48px;
+}
+
 .section-2-keyboard {
     background-image: url(../images/keyboard.svg);
-    position: absolute;
     width: 957px;
     height: 418px;
-    top: 1081px;
-    left: 242px;
 }
-.section-2-cabels {
-    background-image: url(../images/cabels.svg);
-    position: absolute;
-    width: 1440px;
-    height: 451.5px;
-    top: 1228px;
-    left: 0px;
-}
+
+/* .section-2-cabels {
+  background-image: url(../images/cabels.svg);
+
+  width: 1440px;
+  height: 451.5px;
+} */
 .section-2 h2 {
-    color: #FFFFFF;
-    position: absolute;
-    top: 1565px;
-    left: 259px;
-    right: 221px;
+    color: #ffffff;
     font-size: 45px;
     font-family: 'Bebas Neue Pro';
-        font-weight: normal;
-        font-style: normal;
+    font-weight: normal;
+    font-style: normal;
 }
+
 .section-3 h1 {
-    color: #FFFFFF;
+    color: #ffffff;
     position: absolute;
     top: 1912px;
     left: 507px;
@@ -127,6 +137,7 @@ img {
     font-weight: bold;
     font-style: normal;
 }
+
 .section-3-bloknot {
     background-image: url(../images/bloknot.svg);
     position: absolute;
@@ -134,6 +145,7 @@ img {
     height: 668px;
     top: 1969px;
 }
+
 .section-3 h2 {
     font-size: 40px;
     top: 2180px;
@@ -141,10 +153,11 @@ img {
     right: 559px;
     position: absolute;
     color: black;
-        font-family: 'Bebas Neue Pro';
-            font-weight: normal;
-            font-style: normal;
+    font-family: 'Bebas Neue Pro';
+    font-weight: normal;
+    font-style: normal;
 }
+
 .section-3 h3 {
     transform: rotate(10deg);
     font-size: 40px;
