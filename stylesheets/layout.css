@@ -8,11 +8,7 @@ body {
     width: 1440px;
     background-color: #000aff;
     color: white;
-    overflow: auto;
-}
-
-.section-1 {
-    width: 1440px;
+    overflow: scroll;
 }
 
 .section-1-monitor {
@@ -20,9 +16,12 @@ body {
     width: 1119px;
     height: 769px;
     background-image: url(../images/1.svg);
-    margin: 18px auto;
+    position: absolute;
+    top: 18px;
+    left: 160px;
+    /* margin: 18px auto;
     padding-top: 275px;
-    padding-left: 30px;
+    padding-left: 30px; */
 }
 
 .section-1 h1 {
@@ -30,13 +29,20 @@ body {
     font-family: 'Bebas Neue Pro';
     font-weight: bold;
     font-style: normal;
+    position: absolute;
+    top: 295px;
+    left: 425.92px;
 }
 
-.section-1 h1 span {
-    color: #ffc700;
+.pro {
+    font-size: 130px;
+    font-family: 'Bebas Neue Pro';
     font-weight: normal;
     font-style: italic;
-    margin-left: 15px;
+    color: #ffc700;
+    position: absolute;
+    top: 295px;
+    left: 915.92px;
 }
 
 .section-1 h2 {
@@ -44,7 +50,10 @@ body {
     font-family: 'Bebas Neue Pro';
     font-weight: normal;
     font-style: normal;
-    margin-top: -15px;
+    /* margin-top: -15px; */
+    position: absolute;
+    top: 415px;
+    left: 561.88px;
 }
 
 .section-1 h3 {
@@ -52,7 +61,16 @@ body {
     font-family: 'Bebas Neue Pro Middle';
     font-weight: 500;
     font-style: normal;
-    margin-top: 0px;
+    /* margin-top: 0px; */
+    position: absolute;
+    top: 489.07px;
+    left: 621.87px;
+}
+.span3 {
+    color: #FFC700;
+}
+.span40 {
+    color: #FFC700;
 }
 
 .section-1 h6 {
@@ -60,7 +78,7 @@ body {
     opacity: 50%;
     position: absolute;
     top: 705px;
-    left: 180px;
+    left: 163px;
     font-size: 70px;
     font-family: 'Bebas Neue Pro';
     font-weight: bold;
@@ -71,23 +89,24 @@ body {
     color: #ff3d00;
     position: absolute;
     top: 670px;
-    left: 1117px;
+    left: 1102px;
     font-size: 12.5px;
     font-family: 'Bebas Neue Pro';
     font-weight: bold;
     font-style: normal;
 }
-.section-2 {
-    width: 1440px;
-}
+
 .section-2 h1 {
     color: #ffffff;
     font-size: 100px;
     font-family: 'Bebas Neue Pro';
     font-weight: bold;
     font-style: normal;
-    text-align: center;
-    margin-top: 124px;
+    position: absolute;
+    top: 911px;
+    left: 562px;
+    /* text-align: center;
+    margin-top: 124px; */
 }
 
 .cross {
@@ -95,8 +114,8 @@ body {
     width: 117.05px;
     height: 23.75px;
     position: absolute;
-    top: 1570px;
-    left: 670px;
+    top: 1578px;
+    left: 674px;
 
 }
 
@@ -116,7 +135,7 @@ body {
         font-style: normal;
         position: absolute;
         transform: rotate(-8deg);
-        top: 1520px;
+        top: 1530px;
         left: 682px;
 }
 
@@ -128,17 +147,13 @@ body {
 .bebasneuepro {
     font-weight: bold;
 }
-
-.header-keyboard-text {
-    text-align: center;
-}
-
 .section-2-keyboard {
     background-image: url(../images/keyboard.svg);
     width: 957px;
     height: 418px;
-    display: inline-block;
-    margin-top: 60px;
+    position: absolute;
+    top: 1075px;
+    left: 242px;
 }
 
 .section-2 h2 {
@@ -147,11 +162,9 @@ body {
     font-family: 'Bebas Neue Pro';
     font-weight: normal;
     font-style: normal;
-    margin: 66px 242px 0px 240px;
-    text-align: left;
-}
-.section-3 {
-    width: 1440px;
+    position: absolute;
+    top: 1565px;
+    left: 255px;
 }
 
 .section-3 h1 {
@@ -169,8 +182,8 @@ body {
     background-image: url(../images/bloknot.svg);
     width: 1440px;
     height: 668px;
-    margin: 158px auto;
-    text-align: center;
+    position: absolute;
+    top: 1900px;
 }
 
 .section-3 h2 {
