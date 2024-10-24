@@ -19,9 +19,6 @@ body {
     position: absolute;
     top: 18px;
     left: 160px;
-    /* margin: 18px auto;
-    padding-top: 275px;
-    padding-left: 30px; */
 }
 
 .section-1 h1 {
@@ -50,7 +47,6 @@ body {
     font-family: 'Bebas Neue Pro';
     font-weight: normal;
     font-style: normal;
-    /* margin-top: -15px; */
     position: absolute;
     top: 415px;
     left: 561.88px;
@@ -61,7 +57,6 @@ body {
     font-family: 'Bebas Neue Pro Middle';
     font-weight: 500;
     font-style: normal;
-    /* margin-top: 0px; */
     position: absolute;
     top: 489.07px;
     left: 621.87px;
@@ -105,8 +100,6 @@ body {
     position: absolute;
     top: 911px;
     left: 562px;
-    /* text-align: center;
-    margin-top: 124px; */
 }
 
 .cross {
@@ -123,6 +116,7 @@ body {
     background-image: url(../images/cabel.svg);
     position: absolute;
     top: 1228px;
+    left: 1px;
     width: 1439px;
     height: 451.48px;
 }
@@ -167,6 +161,7 @@ body {
     left: 255px;
 }
 
+
 .section-3 h1 {
     color: #ffffff;
     position: absolute;
@@ -184,6 +179,7 @@ body {
     height: 668px;
     position: absolute;
     top: 1900px;
+    left: 0px;
 }
 
 .section-3 h2 {
@@ -390,6 +386,7 @@ body {
     height: 711px;
     position: absolute;
     top: 6570px;
+    left: 0px;
     z-index: 1;
 }
 .podval {
@@ -398,6 +395,7 @@ body {
     height: 150px;
     position: absolute;
     top: 7300px;
+    left: 0px;
 }
 .section-8 {
     width: 1440px;
