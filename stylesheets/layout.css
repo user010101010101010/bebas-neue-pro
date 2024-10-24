@@ -77,7 +77,9 @@ body {
     font-weight: bold;
     font-style: normal;
 }
-
+.section-2 {
+    width: 1440px;
+}
 .section-2 h1 {
     color: #ffffff;
     font-size: 100px;
@@ -148,7 +150,9 @@ body {
     margin: 66px 242px 0px 240px;
     text-align: left;
 }
-
+.section-3 {
+    width: 1440px;
+}
 
 .section-3 h1 {
     color: #ffffff;
@@ -228,6 +232,9 @@ body {
 .span-h5-1 {
     color: #FFC700;
 }
+.section-4 {
+    width: 1440px;
+}
 .section-4 h1 {
     position: absolute;
     top: 2638px;
@@ -253,6 +260,9 @@ body {
     position: absolute;
     top: 2818px;
     left: 73px;
+}
+.section-5 {
+    width: 1440px;
 }
 .section-5 h1 {
     color: #ffffff;
@@ -280,6 +290,9 @@ body {
     top: 3808px;
     left: 701px;
 }
+.section-6 {
+    width: 1440px;
+}
 .section-6 h1 {
     color: #ffffff;
     font-size: 100px;
@@ -297,6 +310,9 @@ body {
     position: absolute;
     top: 4603px;
     left: 18px;
+}
+.section-7 {
+    width: 1440px;
 }
 .section-7 h1 {
     color: #ffffff;
@@ -369,6 +385,9 @@ body {
     height: 150px;
     position: absolute;
     top: 7300px;
+}
+.section-8 {
+    width: 1440px;
 }
 .iphone {
     background-image: url(../images/iphone.svg);
