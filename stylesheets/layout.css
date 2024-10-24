@@ -190,7 +190,7 @@ body {
     font-style: normal;
     position: absolute;
     top: 2113px;
-    left: 585px;
+    left: 570px;
 }
 
 .section-3 h3 {
@@ -201,7 +201,7 @@ body {
     font-style: normal;
     position: absolute;
     top: 2073px;
-    left: 199px;
+    left: 185px;
     transform: rotate(10deg);
 }
 .section-3 h4 {
@@ -212,13 +212,13 @@ body {
     font-style: normal;
     position: absolute;
     top: 2083px;
-    left: 980px;
+    left: 960px;
     transform: rotate(-10deg);
 }
 .section-3 h5 {
     position: absolute;
     top: 2338px;
-    left: 1020px;
+    left: 1000px;
     font-size: 40px;
     color: black;
     font-family: 'Bebas Neue Pro';
