@@ -153,7 +153,7 @@ body {
 .section-3 h1 {
     color: #ffffff;
     position: absolute;
-    top: 1912px;
+    top: 1830px;
     left: 507px;
     font-size: 100px;
     font-family: 'Bebas Neue Pro';
@@ -165,7 +165,7 @@ body {
     background-image: url(../images/bloknot.svg);
     width: 1440px;
     height: 668px;
-    margin: 240px auto;
+    margin: 158px auto;
     text-align: center;
 }
 
@@ -176,7 +176,7 @@ body {
     font-weight: normal;
     font-style: normal;
     position: absolute;
-    top: 2195px;
+    top: 2113px;
     left: 585px;
 }
 
@@ -187,7 +187,7 @@ body {
     font-weight: normal;
     font-style: normal;
     position: absolute;
-    top: 2155px;
+    top: 2073px;
     left: 199px;
     transform: rotate(10deg);
 }
@@ -198,13 +198,13 @@ body {
     font-weight: normal;
     font-style: normal;
     position: absolute;
-    top: 2165px;
+    top: 2083px;
     left: 980px;
     transform: rotate(-10deg);
 }
 .section-3 h5 {
     position: absolute;
-    top: 2420px;
+    top: 2338px;
     left: 1020px;
     font-size: 40px;
     color: black;
@@ -228,11 +228,168 @@ body {
 .span-h5-1 {
     color: #FFC700;
 }
-.section-4 h11 {
-    margin: 0 auto;
+.section-4 h1 {
+    position: absolute;
+    top: 2638px;
+    left: 527px;
     color: #ffffff;
     font-size: 100px;
     font-family: 'Bebas Neue Pro';
     font-weight: bold;
     font-style: normal;
+}
+.kursor {
+    background-image: url(../images/kursor.svg);
+    width: 37px;
+    height: 48px;
+    position: absolute;
+    top: 2736px;
+    left: 920px;
+}
+.banner {
+    background-image: url(../images/banner.svg);
+    width: 1295.89px;
+    height: 705px;
+    position: absolute;
+    top: 2818px;
+    left: 73px;
+}
+.section-5 h1 {
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Bebas Neue Pro';
+    font-weight: bold;
+    font-style: normal;
+    position: absolute;
+    top: 3598px;
+    left: 472px;
+}
+.calculator {
+    background-image: url(../images/calculator.svg);
+    width: 392px;
+    height: 595.84px;
+    position: absolute;
+    top: 3808px;
+    left: 173px;
+}
+.alphabet {
+    background-image: url(../images/alphabet.svg);
+    width: 572px;
+    height: 568.5px;
+    position: absolute;
+    top: 3808px;
+    left: 701px;
+}
+.section-6 h1 {
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Bebas Neue Pro';
+    font-weight: bold;
+    font-style: normal;
+    position: absolute;
+    top: 4498px;
+    left: 287px
+}
+.examples {
+    background-image: url(../images/examples.svg);
+    width: 1366px;
+    height: 969px;
+    position: absolute;
+    top: 4603px;
+    left: 18px;
+}
+.section-7 h1 {
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Bebas Neue Pro';
+    font-weight: bold;
+    font-style: normal;
+    position: absolute;
+    top: 5630px;
+    left: 422px
+}
+.phone {
+    background-image: url(../images/phone.svg);
+    width: 275px;
+    height: 667px;
+    position: absolute;
+    top: 5800px;
+    left: 64px;
+}
+.section-7 h2 {
+    font-size: 70px;
+    color: #ffffff;
+    font-family: 'Bebas Neue Pro';
+    font-weight: bold;
+    font-style: normal;
+    position: absolute;
+    top: 5880px;
+    left: 380px;
+}
+.h2-s {
+    color: #FFC700;
+}
+.languages {
+    background-image: url(../images/languages.svg);
+    width: 811px;
+    height: 172px;
+    position: absolute;
+    top: 6090px;
+    left: 380px;
+}
+.section-7 h3 {
+    font-size: 40px;
+    color: #ffffff;
+    font-family: 'Bebas Neue Pro';
+    font-weight: normal;
+    font-style: normal;
+    position: absolute;
+    left: 380px;
+    top: 6340px;
+}
+.stars {
+    background-image: url(../images/stars.svg);
+    width: 309.5px;
+    height: 135px;
+    position: absolute;
+    top: 6330px;
+    left: 939px;
+}
+.transparent {
+    background-image: url(../images/transparent.svg);
+    width: 1443px;
+    height: 711px;
+    position: absolute;
+    top: 6570px;
+    z-index: 1;
+}
+.podval {
+    background-image: url(../images/podval.svg);
+    width: 1440px;
+    height: 150px;
+    position: absolute;
+    top: 7300px;
+}
+.iphone {
+    background-image: url(../images/iphone.svg);
+    width: 650px;
+    height: 320px;
+    position: absolute;
+    top: 6775px;
+    left: 396px;
+    z-index: 2;
+}
+.section-8 h1 {
+    color: #FF3D00;
+    font-size: 80px;
+    font-family: 'Bebas Neue Pro';
+    font-weight: bold;
+    font-style: normal;
+    position: absolute;
+    top: 6890px;
+    left: 616px;
+    z-index: 3;
+}
+.byespan {
+    color: #000aff;
 }
