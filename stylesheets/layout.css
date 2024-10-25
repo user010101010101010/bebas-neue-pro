@@ -2,18 +2,17 @@
     box-sizing: border-box;
 }
 html, body {
-    margin: 0;
-    padding: 0;
     height: 100%;
+    margin: 0;
 }
 body {
-    /* display: block; */
-    max-width: 1440px;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 1440px;
     background-color: #000aff;
     color: white;
-    overflow-x: hidden;
+    overflow: auto;
 }
 
 .section-1-monitor {
