@@ -1,18 +1,14 @@
 * {
     box-sizing: border-box;
 }
-html, body {
-    height: 100%;
-    margin: 0;
-}
+
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    margin: 0 auto;
     width: 1440px;
     background-color: #000aff;
     color: white;
-    overflow: auto;
+    overflow: scroll;
 }
 
 .section-1-monitor {
